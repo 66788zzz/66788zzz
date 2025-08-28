@@ -1,21 +1,18 @@
-name: Generate Metrics
-
+name: Metrics
 on:
-  schedule:
-    - cron: '0 0 * * *' # 每天自动更新
-  workflow_dispatch: # 手动触发
-  push:
-    branches:
-      - main
-
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
+          # 使用正确的 token 引用
           token: ${{ secrets.METRICS_TOKEN }}
-          config: metrics.config.yml
+          
+          # 移除无效的 config 参数
+          # 使用其他有效参数替代
+          template: classic
+          base: header, activity, community, repositories
+          plugins: languages, stars
