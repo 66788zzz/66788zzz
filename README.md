@@ -20,7 +20,11 @@
 </picture>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=66788zzz&theme=github-compact&hide_border=true&area=true" />
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,jquery,nodejs,ts,md,vue,vite,py,docker,linux,nginx">
-<img align="center" src="/github-metrics.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/66788zzz/66788zzz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/66788zzz/66788zzz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/66788zzz/66788zzz/output/github-contribution-grid-snake.svg">
+</picture>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=78&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=46&animation=twinkling" />
 </p>
