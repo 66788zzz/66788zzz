@@ -18,6 +18,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=66788zzz&layout=compact&hide_border=true&langs_count=8" />
 </picture>
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=66788zzz&theme=github-compact&hide_border=true&area=true" />
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,jquery,nodejs,ts,md,vue,vite,py,docker,linux,nginx">
 <picture>
