@@ -5,13 +5,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 <a href="https://www.ios1.top/">
-  <img align="center" alt="个人主页" width="22px" src="./ico/home.svg" />
+  <img align="center" alt="个人主页" width="22px" src="./img/home.svg" />
 </a>
   <a href="mailto:simple@ios1.top">
-  <img align="center" alt="柳神的邮箱" width="22px" src="./ico/email.svg" />
+  <img align="center" alt="柳神的邮箱" width="22px" src="./img/email.svg" />
 </a>
 <a href="https://blog.ios1.top">
-  <img align="center" alt="个人博客" width="22px" src="./ico/blog.svg" />
+  <img align="center" alt="个人博客" width="22px" src="./img/blog.svg" />
 </a>
 <picture>
   <source
